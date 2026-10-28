@@ -32,4 +32,4 @@ Most of my work is Arabic-first and right-to-left, with English in the same buil
 
 #### Contact
 
-[LinkedIn](https://www.linkedin.com/in/ahmed-elkholy-847380247) · [Email](mailto:ahmed.elkholy19873@gmail.com) · [Portfolio](https://ahmed-elkholy-portfolio.vercel.app)
+[LinkedIn](https://www.linkedin.com/in/ahmed-elkholy-dev) · [Email](mailto:ahmed.elkholy19873@gmail.com) · [Portfolio](https://ahmed-elkholy-portfolio.vercel.app)
